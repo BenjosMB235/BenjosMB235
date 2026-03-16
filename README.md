@@ -1,5 +1,5 @@
-Benjamin
-Étudiant en Génie Informatique.
+
+Développeur Java junior
 Explorateur de systèmes, bâtisseur de logique, architecte de code.
 
 À propos
@@ -25,8 +25,9 @@ Domaines d'exploration
 Technologies en apprentissage
 Langages :
 - Python
+- Java
 - C
-- JavaScript
+- Dart
 
 Outils :
 - Git
@@ -42,6 +43,7 @@ Principe directeur :
 «Transformer des problèmes complexes en systèmes simples et maîtrisables.»
 
 Projets
+
 Cette section évoluera avec mes travaux.
 
 Exemples de projets à venir :
