@@ -1,73 +1,56 @@
+&lt;h1 align="center"&gt;👋 Bonjour, je suis Mbaïram Benjamin Beassoum&lt;/h1&gt;
+&lt;h3 align="center"&gt;Développeur Junior fullstack | Informatique&lt;/h3&gt;
 
-Développeur Java junior
-Explorateur de systèmes, bâtisseur de logique, architecte de code.
+&lt;p align="center"&gt;
+  &lt;em&gt;Je suis passionné d'Intelligence artificielle et da la data science appliqué dans le domaine agricole. Je me forme constamment pour participer au développement dans ce secteur primordial pour notre économie. &lt;/em&gt;
+&lt;/p&gt;
 
-À propos
-Je me forme à l’ingénierie informatique avec une approche centrée sur la compréhension profonde des systèmes.
-Mon objectif est de concevoir des logiciels robustes, efficaces et élégants.
+---
 
-Je m’intéresse particulièrement à :
-- l’algorithmique
-- les systèmes informatiques
-- l’ingénierie logicielle
-- les architectures logicielles
-- l’optimisation et la performance
+### 🎯 Domaines d'intérêt
+- 🤖 Intelligence Artificielle & Machine Learning
+- 📊 Data Science & Analytics  
+- 💻 Développement Logiciel
+- 🌐 Applications mobiles
 
-Je considère le code comme une structure logique vivante : chaque ligne doit servir un but précis.
+### 🛠️ Stack Technique
 
-Domaines d'exploration
-- Développement logiciel
-- Structures de données et algorithmes
-- Systèmes et environnement Linux
-- Programmation bas niveau
-- Automatisation et outils de développement
+**Langages :**
+&lt;p&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="30" height="30"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="30" height="30"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/&gt;
+&lt;/p&gt;
 
-Technologies en apprentissage
-Langages :
-- Python
-- Java
-- C
-- Dart
+**Data Science :**
+&lt;p&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" height="30"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" height="30"/&gt;
+&lt;/p&gt;
 
-Outils :
-- Git
-- Linux
-- Terminal / CLI
+**Outils :**
+&lt;p&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30"/&gt;
+   &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/&gt;
+&lt;/p&gt;
 
-Philosophie de travail
-- simplicité avant complexité
-- performance avant sur-ingénierie
-- compréhension avant mémorisation
+---
 
-Principe directeur :
-«Transformer des problèmes complexes en systèmes simples et maîtrisables.»
+### 📈 Activité GitHub
 
-Projets
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=BenjosMB235&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjosMB235&theme=tokyonight&hide_border=true" width="48%" /&gt;
+&lt;/p&gt;
 
-Cette section évoluera avec mes travaux.
+---
 
-Exemples de projets à venir :
-- outils d'automatisation en ligne de commande
-- implémentations d’algorithmes classiques
-- petits systèmes logiciels expérimentaux
-- projets open source
+### 📫 Contact
 
-Objectifs
-- maîtriser les fondations de l’informatique
-- développer des logiciels fiables et performants
-- contribuer à des projets open source
-- construire une expertise solide en ingénierie logicielle
-
-Apprentissage en cours
-Actuellement concentré sur :
-- algorithmique avancée
-- structures de données
-- systèmes informatiques
-- maîtrise des outils de développement
-
-Contact
-Les moyens de contact seront ajoutés ultérieurement.
-
-Citation technique
-«La complexité n’est pas un signe d’intelligence.
-La véritable maîtrise consiste à rendre les systèmes simples.»
+- 📧 Email : [mbaibenjsos@gmail.com](mailto:mbaibenjsos@gmail.com)
+- 💼 LinkedIn : [linkedin.com/in/benjos235](https://linkedin.com/in/benjos235)
