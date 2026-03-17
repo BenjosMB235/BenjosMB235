@@ -2,8 +2,8 @@
 <h3 align="center"> Développeur Junior fullstack | Informatique </h3>
 
 <p align="center">
-  <em>Je suis passionné d'Intelligence artificielle et de la data science appliquée dans le domaine agricole. Je me forme constamment pour participer au développement dans ce secteur primordial pour notre économie.</em>;
-</p>;
+  <em>Je suis passionné d'Intelligence artificielle et de la data science appliquée dans le domaine agricole. Je me forme constamment pour participer au développement dans ce secteur primordial pour notre économie.</em>
+</p>
 
 ---
 
