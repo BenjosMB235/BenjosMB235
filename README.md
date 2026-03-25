@@ -7,16 +7,16 @@
 
 ---
 
-## 🎯 Domaines d'intérêt
+## Domaines d'intérêt
 
-- 🤖 Intelligence Artificielle & Machine Learning
-- 📊 Data Science & Analytics
-- 💻 Développement Logiciel
-- 🌐 Applications mobiles
+- Intelligence Artificielle & Machine Learning
+- Data Science & Analytics
+- Développement Logiciel
+- Applications mobiles
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 **Langages :**
 <p>
@@ -44,7 +44,7 @@
 
 ---
 
-## 📈 Activité GitHub
+## Activité GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BenjosMB235&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -53,7 +53,8 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 📧 Email : [mbaibenjsos@gmail.com](mailto:mbaibenjsos@gmail.com)
 - 💼 LinkedIn : [linkedin.com/in/benjos235](https://linkedin.com/in/benjos235)
+- 🔗 Portfolio : [benjosmb235.github.io](https://benjosmb235.github.io/)
