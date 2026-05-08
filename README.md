@@ -19,26 +19,59 @@
 ## Stack Technique
 
 **Langages :**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="20%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>
+    </td>
+    <td align="center" valign="top" width="20%">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="30" height="30"/>
+    </td>
+    <td align="center" valign="top" width="20%">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="30" height="30"/>
+    </td>
+    <td align="center" valign="top" width="20%">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>
+    </td>
+  </tr>
+</table>
+
 
 **Data Science :**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" height="30"/>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" height="30"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" height="30"/>
+    </td>
+  </tr>
+</table>
 
 **Outils :**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30"/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30"/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
