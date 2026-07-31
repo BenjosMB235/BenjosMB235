@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=BenjosMB235&theme=tokyonight&no-frame=true&column=7](https://github-profile-trophy-alpha.vercel.app/?username=BenjosMB235&theme=tokyonight&no-frame=true&column=7)" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=BenjosMB235&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </p>
 ---
 
