@@ -1,81 +1,48 @@
-<h1 align="center">👋 Bonjour, je suis Mbaïram Benjamin Beassoum </h1>
-<h3 align="center"> Développeur Junior fullstack | Informatique </h3>
+<h1 align="center">👋 Bonjour, je suis Mbaïram Benjamin Beassoum</h1>
+<h3 align="center">Ingénieur IA & Data Science | Développeur Fullstack</h3>
 
 <p align="center">
-  <em>Je suis passionné d'Intelligence artificielle et de la data science appliquée dans le domaine agricole. Je me forme constamment pour participer au développement dans ce secteur primordial pour notre économie.</em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=IA+%26+Data+Science+appliqu%C3%A9es;Fullstack+Development;Machine+Learning+for+Agriculture" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Passionné par l'Intelligence Artificielle et la Data Science appliquées au secteur agricole. Je conçois des solutions logicielles et des modèles prédictifs pour répondre aux enjeux de développement.</em>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/BenjosMB235/count.svg" alt="Visitor Count" />
 </p>
 
 ---
 
-## Domaines d'intérêt
+## 🔭 En bref
 
-- Intelligence Artificielle & Machine Learning
-- Data Science & Analytics
-- Développement Logiciel
-- Applications mobiles
-
----
-
-## Stack Technique
-
-**Langages :**
-<table>
-  <tr>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>
-    </td>
-    <td align="center" valign="top" width="20%">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="30" height="30"/>
-    </td>
-    <td align="center" valign="top" width="20%">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="30" height="30"/>
-    </td>
-    <td align="center" valign="top" width="20%">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>
-    </td>
-  </tr>
-</table>
-
-
-**Data Science :**
-<table>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" height="30"/>
-    </td>
-    <td align="center" valign="top" width="33%">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" height="30"/>
-    </td>
-  </tr>
-</table>
-
-**Outils :**
-<table>
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30"/>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30"/>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/>
-    </td>
-  </tr>
-</table>
+- 🔭 **Projets récents :** Modèles de Machine Learning & architectures Fullstack (React, Tailwind, Prisma).
+- 🌱 **En apprentissage continu :** Vision par ordinateur (Computer Vision) & déploiement de modèles (MLOps, Docker).
+- 💬 **Sujets d'échange :** Data Science, AgTech, optimisation logicielle.
 
 ---
 
-## Activité GitHub
+## 🛠️ Stack Technique & Outils
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,r,c,tensorflow,postgres,docker,react,tailwind,git,linux,vscode" />
+</p>
+
+---
+
+## 📌 Projets Phares
+
+| Projet | Description | Stack |
+| :--- | :--- | :--- |
+| **[Projet IA Agriculture](#)** | Modèle prédictif / Analyse de données agricoles | `Python` `TensorFlow` `Pandas` |
+| **[Application Web / Mobile](#)** | Plateforme fullstack réactive et conteneurisée | `React` `Tailwind` `Docker` `Prisma` |
+
+---
+
+## 📊 Activité GitHub
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BenjosMB235&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -89,10 +56,13 @@
 <p align="center">
   <img src="https://github-profile-trophy-alpha.vercel.app/?username=BenjosMB235&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </p>
+
 ---
 
-## Contact
+## 📬 Me contacter
 
-- 📧 Email : [mbaibenjsos@gmail.com](mailto:mbaibenjsos@gmail.com)
-- 💼 LinkedIn : [linkedin.com/in/benjos235](https://linkedin.com/in/benjos235)
-- 🔗 Portfolio : [benjosmb235.github.io](https://benjosmb235.github.io/)
+<p align="center">
+  <a href="mailto:mbaibenjsos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/benjos235"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://benjosmb235.github.io/"><img src="https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
